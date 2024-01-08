@@ -1,3 +1,5 @@
+/*Store and retrieve the name of the students and obtained marks in c programming in 1st semester 
+using structure.*/
 #include <stdio.h>
 
 // Define a structure using typedef
