@@ -1,3 +1,6 @@
+/*Write a program to find the position of the character 'C' in the sentence
+"idea without execution is worthless" 
+using pointer and string.*/
 #include <stdio.h>
 
 int findCharPosition(const char *sentence, char target) {
@@ -30,3 +33,4 @@ int main() {
 
     return 0;
 }
+ 
